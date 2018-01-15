@@ -1,1 +1,139 @@
-/* Los estilos de tu proyecto */
+.nav > li> a {
+  color: #000;
+}
+
+.first-row{
+  background-image: url("../assets/images/taxi.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 150vh;
+}
+
+
+.yellow-square{
+  background-color: #f7b617;
+  padding: 5%;
+  top: 20%;
+}
+
+
+h2, h4, h3, span{
+  color: #FFF;
+  margin: 0px;
+  padding: 0px;
+}
+
+.travel{
+  display: inline-block;
+}
+
+.yellow-square > img {
+  height: 4vh;
+}
+
+button{
+margin-top: 3vh;
+}
+
+.first-hr{
+  width: 10vw;
+  display: inline-block;
+  margin-bottom: 1vh;
+}
+
+.third-container{
+background-color: #f7b617;
+}
+
+.second-row{
+  border: 0.1vh solid #FFF;
+  padding: 3%;
+  margin-top: 6vh;
+  margin-bottom: 6vh;
+}
+
+.new-app{
+color: #FFF;
+font-size: 2.5vh;
+}
+
+.four-container{
+  background-image: url("../assets/images/conduce.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50vh;
+}
+
+.third-row {
+  background-color: #000;
+  padding: 3%;
+  padding-bottom: 25vh;
+  opacity: 0.7;
+  color: #FFF;
+}
+
+.four-row{
+  padding: 5vh;
+  background-color: #f7b617;
+  color: #FFF;
+}
+
+.form{
+  padding: 5vh;
+}
+
+.map{
+  border: 0.3vh solid #FFF;
+  padding: 2vh;
+}
+
+iframe{
+  margin: auto;
+}
+
+.form-group {
+  margin: 5vh;
+}
+
+.form-group > input {
+  background-color: #f7b617;
+  color: #FFF;
+}
+
+
+.footer {
+  background-color: gray;
+  padding: 5vh;
+  color: #FFF;
+}
+
+i{
+  margin-left: 1vw;
+}
+.text{
+  padding: 1vh;
+  top: 50%;
+}
+
+.store-google{
+margin-top: 30vh;
+}
+
+.store-google > img {
+  width: 10vw;
+  display: block;
+}
+.store-google-2{
+margin-top: 10vh;
+}
+
+.store-google-2 > img {
+  width: 40vw;
+  display: block;
+}
+
+.icons{
+  margin-top: 40vh;
+}
